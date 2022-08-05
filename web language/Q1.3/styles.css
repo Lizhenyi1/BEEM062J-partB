@@ -1,0 +1,46 @@
+#block1 {
+    background-color: #357ff6;
+    padding: 50px; 
+    margin-bottom: 5px;
+    border: 10px dotted rgb(241, 219, 219);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#block2 {
+    background-color: #85b1de; 
+    padding: 50px; 
+    margin-bottom: 5px;
+    border: 10px dotted rgb(246, 238, 238);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#block3 {
+    background-color: #3778b5; 
+    padding: 50px;
+    border: 10px dotted rgb(208, 194, 194);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#block4 {
+    background-color: #8b78ad; 
+    padding: 50px;
+    border: 10px dotted rgb(238, 177, 177);
+    font-family: Arial, Helvetica, sans-serif;
+
+#privKey {
+    font-family: Arial, Helvetica, sans-serif;
+    word-break: break-all;
+}
+
+#pubKey {
+    font-family: Arial, Helvetica, sans-serif;
+    word-break: break-all;
+}
+
+#address {
+    font-family: Arial, Helvetica, sans-serif;
+    word-break: break-all;
+}
+
+#qrcode {
+    margin-top: 20px;

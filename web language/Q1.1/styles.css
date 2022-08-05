@@ -1,0 +1,20 @@
+h1 {color: rgba(161, 105, 14, 0.927);}
+#block1 {
+    font-size: 50px;
+    color: rgb(149, 70, 5);
+    font-style: oblique;
+    background-color: bisque;
+}
+
+#block2 { 
+    color: rgb(149, 70, 5);
+    font-size: 30px;
+    background-color: rgb(225, 193, 152)
+
+}
+#html{
+    color: rgb(149, 70, 5);
+    font-size: 30px;
+    text-align: center;
+    border: 10px dashed;
+}
